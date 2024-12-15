@@ -9,7 +9,7 @@ const Navbar = () => {
         <img 
           src={logo} 
           alt="Logo_BUG_BUSTER" 
-          className="w-22 h-20 object-contain" // Adjust w-24 and h-24 as needed
+          className="w-17 h-10 " 
         />
       </div>
       <div className="m-8 flex items-center gap-4">
